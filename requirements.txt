@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai
+chromadb
+transformers
+openpyxl
+torch  # required dependency for transformers
