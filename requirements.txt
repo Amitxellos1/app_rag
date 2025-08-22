@@ -5,4 +5,5 @@ chromadb
 transformers
 openpyxl
 sqlite3
+pysqlite3-binary
 torch  # required dependency for transformers
