@@ -1,3 +1,4 @@
+pip install streamlit pandas openai chromadb transformers openpyxl
 import streamlit as st
 import pandas as pd
 import openai
