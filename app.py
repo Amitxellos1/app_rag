@@ -7,7 +7,7 @@ import numpy as np
 
 # ----- UI -----
 st.title("RAG Chatbot for Tabular Excel Data")
-openai_api_key = st.text_input("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", type='password')
+openai_api_key = st.text_input("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", type='password')
 
 uploaded_file = st.file_uploader("Upload your Excel data file", type=["xlsx"])
 if uploaded_file and openai_api_key:
